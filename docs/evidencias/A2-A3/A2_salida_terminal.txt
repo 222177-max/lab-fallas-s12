@@ -1,0 +1,8 @@
+Evidencia textual suministrada por el integrante durante A2:
+
+PS> curl.exe -X POST http://localhost:8000/crash
+curl: (52) Empty reply from server
+PS> docker ps -a
+1a6dad01a1a4   lab-fallas:1.0   Exited (1)   solo
+
+NOTA: no sustituye la captura exigida por la guía si el docente la solicita.
